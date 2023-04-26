@@ -1,4 +1,4 @@
-{
+﻿{
   "name" : "adha.template.fhir",
   "type" : "fhir.template",
   "license" : "Apache-2.0",
@@ -7,7 +7,7 @@
   "canonical" : "http://ns.electronichealth.net.au/fhir/adha.template.fhir",  
   "base" : "adha.template.base",
   "dependencies" : {
-    "fhir.base.template" : "0.0.1"
+    "adha.template.base" : "0.0.1"
   },
   "version" : "0.0.1"
 }
