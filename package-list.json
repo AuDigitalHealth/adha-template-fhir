@@ -2,12 +2,12 @@
   "package-id": "adha.template.fhir",
   "title": "FHIR technology specific template for FHIR IGs published by the Australian Digital Health Agency",
   "canonical": "http://ns.electronichealth.net.au/fhir/adha.template.fhir",
-  "introduction": "This is the ADHA FHIR implementation guide template that adds FHIR specification branding (like logo), or other FHIR artefact styling.",
+  "introduction": "This is the ADHA FHIR implementation guide template that adds FHIR artefact styling.",
   "list": [
     {
       "version": "current",
       "desc": "Continuous Integration Build (latest in version control)",
-      "path": "https://github.com/AuDigitalHealth/adha.template.fhir",
+      "path": "https://build.fhir.org/ig/AuDigitalHealth/adha.template.fhir",
       "status": "ci-build",
       "current": true
     },
