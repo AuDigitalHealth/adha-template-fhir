@@ -2,7 +2,7 @@
   "name" : "adha.template.fhir",
   "type" : "fhir.template",
   "license" : "Apache-2.0",
-  "description" : "FHIR implementation guide template that adds FHIR specification branding (like logo), or other FHIR artefact styling.",
+  "description" : "FHIR implementation guide template that adds FHIR artefact styling.",
   "author" : "https://www.digitalhealth.gov.au/",
   "canonical" : "http://ns.electronichealth.net.au/fhir/adha.template.fhir",  
   "base" : "adha.template.base",
