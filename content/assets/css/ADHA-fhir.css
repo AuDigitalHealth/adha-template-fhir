@@ -1,0 +1,18 @@
+/*
+
+  FHIR technology specific layout and styling
+
+*/
+
+/* colour variables */
+/* NOTE - the following colours have not yet been ratified by the ADHA Comms Digital Team */
+:root {
+  --canonical-table-background-color: #ffffe6; /* the colour of the background of the canonical table */
+}
+
+/* background colour of canonical table at the top of resources */
+/* CSS selector table.colsd td */
+table.colsd td {
+	background-color: var(--canonical-table-background-color);
+}
+
