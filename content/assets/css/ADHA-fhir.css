@@ -5,7 +5,6 @@
 */
 
 /* colour variables */
-/* NOTE - the following colours have not yet been ratified by the ADHA Comms Digital Team */
 :root {
   --canonical-table-background-color: #ffffe6; /* the colour of the background of the canonical table */
   --xml-snippet-background-color: #F0FFFF; /* the colour of the background of the example xml snippets */
