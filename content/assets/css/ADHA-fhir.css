@@ -23,7 +23,6 @@ table.colsd td {
 /* maximise the width of the xml snippet panes */
 pre.xml {
   width: 100%;
-  overflow: auto
 }
 
 /* ensure that the content of example XML snippets wrap within the pane */
@@ -42,7 +41,6 @@ code[class*="language-xml"] {
 /* maximise the width of the json snippet panes */
 pre.json {
   width: 100%;
-  overflow: auto
 }
 
 /* ensure that the content of example JSON snippets wrap within the pane */
@@ -61,5 +59,4 @@ code[class*="language-json"] {
 /* maximise the width of the rdf snippet panes */
 pre.rdf {
   width: 100%;
-  overflow: auto
 }
