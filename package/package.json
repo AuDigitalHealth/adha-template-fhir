@@ -7,7 +7,7 @@
   "canonical" : "http://ns.electronichealth.net.au/fhir/adha.template.fhir",  
   "base" : "adha.template.base",
   "dependencies" : {
-    "adha.template.base" : "0.0.1"
+    "adha.template.base" : "dev"
   },
   "version" : "0.0.1"
 }
