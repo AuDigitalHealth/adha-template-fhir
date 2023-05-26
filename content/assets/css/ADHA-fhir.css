@@ -9,6 +9,7 @@
   --canonical-table-background-color: #ffffe6; /* the colour of the background of the canonical table */
   --xml-snippet-background-color: #F0FFFF; /* the colour of the background of the example xml snippets */
   --json-snippet-background-color: #EFFFEF; /* the colour of the background of the example json snippets */
+  --rdf-snippet-background-color: #fdedff; /* the colour of the background of the example rdf snippets */
 }
 
 /* background colour of canonical table at the top of resources */
@@ -58,4 +59,15 @@ code[class*="language-json"] {
 /* maximise the width of the rdf snippet panes */
 pre.rdf {
   width: 100%;
+}
+
+/* ensure that the content of example RDF snippets wrap within the pane */
+/* rather than extend un-wrapped hidden to the right of the pane */
+code[class*="language-rdf"] {
+	white-space: break-spaces;
+}
+
+/* background colour of the example RDF snippets */
+:not(pre) > code[class*="language-rdf"], pre[class*="language-rdf"] {
+  background: var(--rdf-snippet-background-color);
 }
