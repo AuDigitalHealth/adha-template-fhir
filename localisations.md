@@ -3,7 +3,7 @@ This FHIR template adds the following specific styling elements:
 
 ## 1. ./includes
 ### a) `/_append.fragment-css.html`
-The Agency CSS is introduced (`content/assets/css/ADHA-fhir.css`)
+The FHIR-technology specific CSS is introduced (`content/assets/css/ADHA-fhir.css`)
 
 See below for the specific styling localisations in `ADHA-fhir.css`.
 
