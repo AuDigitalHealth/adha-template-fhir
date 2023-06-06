@@ -6,6 +6,9 @@ It will directly inherit from the ADHA template `adha-template-base` (https://gi
 ## Package ID
 package id = `adha.template.fhir`
 
+## Canonical Identifier
+`http://ns.electronichealth.net.au/fhir/Template/adha.template.fhir`
+
 ## Localisations
 For detailed descriptions of the localisations this template introduces, refer to [localisations](localisations.md).
 
