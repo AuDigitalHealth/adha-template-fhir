@@ -9,3 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - first draft for team review
+
+## [0.0.2] - 2023-06-20
+
+### Added
+- Update to depend on 0.0.2 of adha.template.base
+- Corrected description in package.json
+- add footer link for FHIR license

@@ -7,6 +7,9 @@ The FHIR-technology specific CSS is introduced (`content/assets/css/ADHA-fhir.cs
 
 See below for the specific styling localisations in `ADHA-fhir.css`.
 
+### b) `/_append.fragment-footer.html`
+Add footer link for FHIR license with standard 'public domain' image
+
 ## 2. ./layouts
 No layout localisations have been introduced in this template
 
