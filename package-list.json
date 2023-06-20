@@ -18,6 +18,14 @@
       "status": "draft",
       "sequence": "Publications",
       "date": "2023-06-09"
+    },
+    {
+      "version": "0.0.2",
+      "desc": "Update to depend on 0.0.2 of adha.template.base",
+      "path": "https://github.com/AuDigitalHealth/adha.template.fhir",
+      "status": "draft",
+      "sequence": "Publications",
+      "date": "2023-06-20"
     }
   ]
 }
