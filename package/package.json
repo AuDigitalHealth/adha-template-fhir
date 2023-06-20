@@ -1,8 +1,8 @@
-﻿{
+{
   "name" : "adha.template.fhir",
   "type" : "fhir.template",
   "license" : "Apache-2.0",
-  "description" : "FHIR implementation guide template that adds FHIR artefact styling.",
+  "description" : "FHIR implementation guide template that adds FHIR artefact styling for the Australian Digital Health Agency.",
   "author" : "https://www.digitalhealth.gov.au/",
   "canonical" : "http://ns.electronichealth.net.au/fhir/Template/adha.template.fhir",  
   "base" : "adha.template.base",
