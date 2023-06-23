@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Add footer link for FHIR license
+- Add empty ini file so that autobuilder works
 
 ### Changed
 - Update to depend on 0.0.2 of adha.template.base
