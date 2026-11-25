@@ -6,16 +6,9 @@
 
 /* colour variables */
 :root {
-  --canonical-table-background-color: #ffffe6; /* the colour of the background of the canonical table */
   --xml-snippet-background-color: #F0FFFF; /* the colour of the background of the example xml snippets */
   --json-snippet-background-color: #EFFFEF; /* the colour of the background of the example json snippets */
   --rdf-snippet-background-color: #fdedff; /* the colour of the background of the example rdf snippets */
-}
-
-/* background colour of canonical table at the top of resources */
-/* CSS selector table.colsd td */
-table.colsd td {
-	background-color: var(--canonical-table-background-color);
 }
 
 /* XML SNIPPETS */
